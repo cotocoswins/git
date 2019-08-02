@@ -1,0 +1,81 @@
+Script started on qui 25 jul 2019 18:18:11 -03
+]0;andre@andre-PC: ~[01;32mandre@andre-PC[00m:[01;34m~[00m$ git config ==[K[K--co[K[Kglobal user.name "and[K[K[KAndré Moraes![K"
+]0;andre@andre-PC: ~[01;32mandre@andre-PC[00m:[01;34m~[00m$ git config --global user..[Kname [K[K[K[K[Kemail "andre.justo.moraes@gmai.[Kl.com"
+]0;andre@andre-PC: ~[01;32mandre@andre-PC[00m:[01;34m~[00m$ git congi[K[Kfig --global color.ui auto 
+]0;andre@andre-PC: ~[01;32mandre@andre-PC[00m:[01;34m~[00m$ git ini [Kt git-manual
+Initialized empty Git repository in /home/andre/git-manual/.git/
+]0;andre@andre-PC: ~[01;32mandre@andre-PC[00m:[01;34m~[00m$ g[Kgit vlo[K[K[Kcloe[Kne https://github.com/hideraldus13/roadmap-do-desenvolvedoor-web
+Cloning into 'roadmap-do-desenvolvedor-web'...
+remote: Enumerating objects: 86, done.[K
+remote: Counting objects:   1% (1/86)   [Kremote: Counting objects:   2% (2/86)   [Kremote: Counting objects:   3% (3/86)   [Kremote: Counting objects:   4% (4/86)   [Kremote: Counting objects:   5% (5/86)   [Kremote: Counting objects:   6% (6/86)   [Kremote: Counting objects:   8% (7/86)   [Kremote: Counting objects:   9% (8/86)   [Kremote: Counting objects:  10% (9/86)   [Kremote: Counting objects:  11% (10/86)   [Kremote: Counting objects:  12% (11/86)   [Kremote: Counting objects:  13% (12/86)   [Kremote: Counting objects:  15% (13/86)   [Kremote: Counting objects:  16% (14/86)   [Kremote: Counting objects:  17% (15/86)   [Kremote: Counting objects:  18% (16/86)   [Kremote: Counting objects:  19% (17/86)   [Kremote: Counting objects:  20% (18/86)   [Kremote: Counting objects:  22% (19/86)   [Kremote: Counting objects:  23% (20/86)   [Kremote: Counting objects:  24% (21/86)   [Kremote: Counting objects:  25% (22/86)   [Kremote: Counting objects:  26% (23/86)   [Kremote: Counting objects:  27% (24/86)   [Kremote: Counting objects:  29% (25/86)   [Kremote: Counting objects:  30% (26/86)   [Kremote: Counting objects:  31% (27/86)   [Kremote: Counting objects:  32% (28/86)   [Kremote: Counting objects:  33% (29/86)   [Kremote: Counting objects:  34% (30/86)   [Kremote: Counting objects:  36% (31/86)   [Kremote: Counting objects:  37% (32/86)   [Kremote: Counting objects:  38% (33/86)   [Kremote: Counting objects:  39% (34/86)   [Kremote: Counting objects:  40% (35/86)   [Kremote: Counting objects:  41% (36/86)   [Kremote: Counting objects:  43% (37/86)   [Kremote: Counting objects:  44% (38/86)   [Kremote: Counting objects:  45% (39/86)   [Kremote: Counting objects:  46% (40/86)   [Kremote: Counting objects:  47% (41/86)   [Kremote: Counting objects:  48% (42/86)   [Kremote: Counting objects:  50% (43/86)   [Kremote: Counting objects:  51% (44/86)   [Kremote: Counting objects:  52% (45/86)   [Kremote: Counting objects:  53% (46/86)   [Kremote: Counting objects:  54% (47/86)   [Kremote: Counting objects:  55% (48/86)   [Kremote: Counting objects:  56% (49/86)   [Kremote: Counting objects:  58% (50/86)   [Kremote: Counting objects:  59% (51/86)   [Kremote: Counting objects:  60% (52/86)   [Kremote: Counting objects:  61% (53/86)   [Kremote: Counting objects:  62% (54/86)   [Kremote: Counting objects:  63% (55/86)   [Kremote: Counting objects:  65% (56/86)   [Kremote: Counting objects:  66% (57/86)   [Kremote: Counting objects:  67% (58/86)   [Kremote: Counting objects:  68% (59/86)   [Kremote: Counting objects:  69% (60/86)   [Kremote: Counting objects:  70% (61/86)   [Kremote: Counting objects:  72% (62/86)   [Kremote: Counting objects:  73% (63/86)   [Kremote: Counting objects:  74% (64/86)   [Kremote: Counting objects:  75% (65/86)   [Kremote: Counting objects:  76% (66/86)   [Kremote: Counting objects:  77% (67/86)   [Kremote: Counting objects:  79% (68/86)   [Kremote: Counting objects:  80% (69/86)   [Kremote: Counting objects:  81% (70/86)   [Kremote: Counting objects:  82% (71/86)   [Kremote: Counting objects:  83% (72/86)   [Kremote: Counting objects:  84% (73/86)   [Kremote: Counting objects:  86% (74/86)   [Kremote: Counting objects:  87% (75/86)   [Kremote: Counting objects:  88% (76/86)   [Kremote: Counting objects:  89% (77/86)   [Kremote: Counting objects:  90% (78/86)   [Kremote: Counting objects:  91% (79/86)   [Kremote: Counting objects:  93% (80/86)   [Kremote: Counting objects:  94% (81/86)   [Kremote: Counting objects:  95% (82/86)   [Kremote: Counting objects:  96% (83/86)   [Kremote: Counting objects:  97% (84/86)   [Kremote: Counting objects:  98% (85/86)   [Kremote: Counting objects: 100% (86/86)   [Kremote: Counting objects: 100% (86/86), done.[K
+remote: Compressing objects:   1% (1/59)   [Kremote: Compressing objects:   3% (2/59)   [Kremote: Compressing objects:   5% (3/59)   [Kremote: Compressing objects:   6% (4/59)   [Kremote: Compressing objects:   8% (5/59)   [Kremote: Compressing objects:  10% (6/59)   [Kremote: Compressing objects:  11% (7/59)   [Kremote: Compressing objects:  13% (8/59)   [Kremote: Compressing objects:  15% (9/59)   [Kremote: Compressing objects:  16% (10/59)   [Kremote: Compressing objects:  18% (11/59)   [Kremote: Compressing objects:  20% (12/59)   [Kremote: Compressing objects:  22% (13/59)   [Kremote: Compressing objects:  23% (14/59)   [Kremote: Compressing objects:  25% (15/59)   [Kremote: Compressing objects:  27% (16/59)   [Kremote: Compressing objects:  28% (17/59)   [Kremote: Compressing objects:  30% (18/59)   [Kremote: Compressing objects:  32% (19/59)   [Kremote: Compressing objects:  33% (20/59)   [Kremote: Compressing objects:  35% (21/59)   [Kremote: Compressing objects:  37% (22/59)   [Kremote: Compressing objects:  38% (23/59)   [Kremote: Compressing objects:  40% (24/59)   [Kremote: Compressing objects:  42% (25/59)   [Kremote: Compressing objects:  44% (26/59)   [Kremote: Compressing objects:  45% (27/59)   [Kremote: Compressing objects:  47% (28/59)   [Kremote: Compressing objects:  49% (29/59)   [Kremote: Compressing objects:  50% (30/59)   [Kremote: Compressing objects:  52% (31/59)   [Kremote: Compressing objects:  54% (32/59)   [Kremote: Compressing objects:  55% (33/59)   [Kremote: Compressing objects:  57% (34/59)   [Kremote: Compressing objects:  59% (35/59)   [Kremote: Compressing objects:  61% (36/59)   [Kremote: Compressing objects:  62% (37/59)   [Kremote: Compressing objects:  64% (38/59)   [Kremote: Compressing objects:  66% (39/59)   [Kremote: Compressing objects:  67% (40/59)   [Kremote: Compressing objects:  69% (41/59)   [Kremote: Compressing objects:  71% (42/59)   [Kremote: Compressing objects:  72% (43/59)   [Kremote: Compressing objects:  74% (44/59)   [Kremote: Compressing objects:  76% (45/59)   [Kremote: Compressing objects:  77% (46/59)   [Kremote: Compressing objects:  79% (47/59)   [Kremote: Compressing objects:  81% (48/59)   [Kremote: Compressing objects:  83% (49/59)   [Kremote: Compressing objects:  84% (50/59)   [Kremote: Compressing objects:  86% (51/59)   [Kremote: Compressing objects:  88% (52/59)   [Kremote: Compressing objects:  89% (53/59)   [Kremote: Compressing objects:  91% (54/59)   [Kremote: Compressing objects:  93% (55/59)   [Kremote: Compressing objects:  94% (56/59)   [Kremote: Compressing objects:  96% (57/59)   [Kremote: Compressing objects:  98% (58/59)   [Kremote: Compressing objects: 100% (59/59)   [Kremote: Compressing objects: 100% (59/59), done.[K
+Unpacking objects:   1% (1/86)   Unpacking objects:   2% (2/86)   Unpacking objects:   3% (3/86)   Unpacking objects:   4% (4/86)   Unpacking objects:   5% (5/86)   Unpacking objects:   6% (6/86)   Unpacking objects:   8% (7/86)   Unpacking objects:   9% (8/86)   Unpacking objects:  10% (9/86)   Unpacking objects:  11% (10/86)   Unpacking objects:  12% (11/86)   Unpacking objects:  13% (12/86)   Unpacking objects:  15% (13/86)   Unpacking objects:  16% (14/86)   Unpacking objects:  17% (15/86)   Unpacking objects:  18% (16/86)   Unpacking objects:  19% (17/86)   Unpacking objects:  20% (18/86)   Unpacking objects:  22% (19/86)   Unpacking objects:  23% (20/86)   Unpacking objects:  24% (21/86)   Unpacking objects:  25% (22/86)   Unpacking objects:  26% (23/86)   Unpacking objects:  27% (24/86)   Unpacking objects:  29% (25/86)   Unpacking objects:  30% (26/86)   Unpacking objects:  31% (27/86)   Unpacking objects:  32% (28/86)   Unpacking objects:  33% (29/86)   Unpacking objects:  34% (30/86)   Unpacking objects:  36% (31/86)   Unpacking objects:  37% (32/86)   Unpacking objects:  38% (33/86)   Unpacking objects:  39% (34/86)   Unpacking objects:  40% (35/86)   Unpacking objects:  41% (36/86)   Unpacking objects:  43% (37/86)   Unpacking objects:  44% (38/86)   Unpacking objects:  45% (39/86)   Unpacking objects:  46% (40/86)   Unpacking objects:  47% (41/86)   Unpacking objects:  48% (42/86)   Unpacking objects:  50% (43/86)   Unpacking objects:  51% (44/86)   Unpacking objects:  52% (45/86)   Unpacking objects:  53% (46/86)   Unpacking objects:  54% (47/86)   Unpacking objects:  55% (48/86)   Unpacking objects:  56% (49/86)   Unpacking objects:  58% (50/86)   Unpacking objects:  59% (51/86)   Unpacking objects:  60% (52/86)   Unpacking objects:  61% (53/86)   Unpacking objects:  62% (54/86)   Unpacking objects:  63% (55/86)   Unpacking objects:  65% (56/86)   Unpacking objects:  66% (57/86)   Unpacking objects:  67% (58/86)   Unpacking objects:  68% (59/86)   Unpacking objects:  69% (60/86)   Unpacking objects:  70% (61/86)   Unpacking objects:  72% (62/86)   Unpacking objects:  73% (63/86)   Unpacking objects:  74% (64/86)   Unpacking objects:  75% (65/86)   Unpacking objects:  76% (66/86)   Unpacking objects:  77% (67/86)   Unpacking objects:  79% (68/86)   Unpacking objects:  80% (69/86)   Unpacking objects:  81% (70/86)   Unpacking objects:  82% (71/86)   Unpacking objects:  83% (72/86)   Unpacking objects:  84% (73/86)   Unpacking objects:  86% (74/86)   Unpacking objects:  87% (75/86)   Unpacking objects:  88% (76/86)   Unpacking objects:  89% (77/86)   Unpacking objects:  90% (78/86)   Unpacking objects:  91% (79/86)   Unpacking objects:  93% (80/86)   Unpacking objects:  94% (81/86)   Unpacking objects:  95% (82/86)   Unpacking objects:  96% (83/86)   remote: Total 86 (delta 40), reused 63 (delta 25), pack-reused 0
+Unpacking objects:  97% (84/86)   Unpacking objects:  98% (85/86)   Unpacking objects: 100% (86/86)   Unpacking objects: 100% (86/86), done.
+]0;andre@andre-PC: ~[01;32mandre@andre-PC[00m:[01;34m~[00m$ git staut[K[Kti[Kus
+fatal: Not a git repository (or any of the parent directories): .git
+]0;andre@andre-PC: ~[01;32mandre@andre-PC[00m:[01;34m~[00m$ cd 
+.cache/                       .local/
+.config/                      Music/
+.dbus/                        Pictures/
+Desktop/                      .pki/
+Documents/                    .Public/
+Downloads/                    roadmap-do-desenvolvedor-web/
+git-manual/                   .Templates/
+.gnome/                       .themes/
+.gnupg/                       Videos/
+.icons/                       模板/
+]0;andre@andre-PC: ~[01;32mandre@andre-PC[00m:[01;34m~[00m$ cd git-manual/
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ cd git-manual/[4Pgit status
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git f[Kdiff
+[?1h=[K[?1l>]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ touc [Kh arquivot[KTeste.txt
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ touch arquivoTeste.txt[14Pgit diff
+[?1h=[K[?1l>]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git add arquivoTeste.txt 
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git add arquivoTeste.txt diff[Ktouch arquivoTeste.txt[14Pgit diff
+[?1h=[K[?1l>]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git commit -m "teste arquivo"
+[master (root-commit) 88b03fa] teste arquivo
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 arquivoTeste.txt
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git commit -m "teste arquivo"diff[Kadd arquivoTeste.txt diff[K
+[?1h=[K[?1l>]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git branch
+* [32mmaster[m
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git branch um-novo[K[K[K[K[K[K[KUm-[KNovoTestre[K[Ke
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git [K[K[K[Kgit branch
+  UmNovoTeste[m
+* [32mmaster[m
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git checkout 
+HEAD          master        UmNovoTeste   
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git checkout UmNovoTeste 
+Switched to branch 'UmNovoTeste'
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ gi t[K[Kt merge UmNovoTeste 
+Already up-to-date.
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git branch -d UmNovoTeste 
+error: Cannot delete branch 'UmNovoTeste' checked out at '/home/andre/git-manual'
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ cd v[Kbt[Kran[K[K[K[K[K[K[Kgit branch M[Kmaster 
+fatal: A branch named 'master' already exists.
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git branch master [C[1P[1P[1P[1P[1P[1P[1P[C[1@ [1@c[1@h[1@e[1@c[1@k[4@out [1P
+Switched to branch 'master'
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git branch -d UmNovoTeste 
+Deleted branch UmNovoTeste (was 88b03fa).
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git lsp[K-g[Kfiles arquivoTeste.txt arquivoTeste.txt [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+arquivoTeste.txt
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git ls-files arquivoTeste.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+arquivoTeste.txt
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+]0;andre@andre-PC: ~/git-manual[01;32mandre@andre-PC[00m:[01;34m~/git-manual[00m$ exit
+exit
+
+Script done on qui 25 jul 2019 18:25:42 -03
